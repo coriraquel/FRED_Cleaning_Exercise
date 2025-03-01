@@ -8,15 +8,11 @@ The economy is influenced by many factors, and predicting economic outcomes is c
 2. __Data Visualization:__ Use Matplotlib and Seaborn for creating visualizations that highlight trends, correlations, and model results.
 3. __Correlation Analysis:__ Perform correlation analysis to understand the relationships between different macroeconomic variables.
 ## Technologies Used:
-Python: Primary language for data processing, model training, and evaluation.
-
-Pandas: For data manipulation and preprocessing of large datasets.
-
-Scikit-learn: For machine learning algorithms and evaluation metrics.
-
-Matplotlib / Seaborn: For visualizing the dataset and results.
-
-Jupyter Notebooks: For interactive development, data exploration, and visualization.
+*Python: Primary language for data processing, model training, and evaluation.
+*Pandas: For data manipulation and preprocessing of large datasets.
+*Scikit-learn: For machine learning algorithms and evaluation metrics.
+*Matplotlib / Seaborn: For visualizing the dataset and results.
+*Jupyter Notebooks: For interactive development, data exploration, and visualization.
 
 ## Learner Growth: 
 This project provided valuable hands-on experience in working with economic datasets and preparing them for further analysis. I gained insight into how to pull, clean, and merge data from different sources to create a unified dataset. I also learned how to:
@@ -28,12 +24,12 @@ This project provided valuable hands-on experience in working with economic data
 - Understand how different macroeconomic indicators influence each other over time, and how this can inform decision-making in economics and policymaking.
 
 ## Potential Questions: 
-- How do key economic indicators like GDP, unemployment rate, and inflation rate correlate with each other over time?
-- Can we identify any significant lag effects between these indicators (e.g., does a change in unemployment rate precede a change in GDP)?
-- How can this cleaned and aggregated dataset be used to build predictive models or inform economic policy?
-- Are there any observable trends or cycles in the data (e.g., seasonal patterns, long-term growth/decline)?
-- What other external factors or economic indicators could be incorporated to improve the accuracy of forecasts or the analysis?
-- Are there any anomalies in the dataset that need further investigation, and what impact might they have on predictions?
+1. How do key economic indicators like GDP, unemployment rate, and inflation rate correlate with each other over time?
+2. Can we identify any significant lag effects between these indicators (e.g., does a change in unemployment rate precede a change in GDP)?
+3. How can this cleaned and aggregated dataset be used to build predictive models or inform economic policy?
+4. Are there any observable trends or cycles in the data (e.g., seasonal patterns, long-term growth/decline)?
+5. What other external factors or economic indicators could be incorporated to improve the accuracy of forecasts or the analysis?
+6. Are there any anomalies in the dataset that need further investigation, and what impact might they have on predictions?
 
 ## Timeline: 
 This project took approximately 3 to 5 hours in total to complete. 
