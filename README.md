@@ -15,7 +15,7 @@ The economy is influenced by many factors, and predicting economic outcomes is c
 5. __Jupyter Notebooks:__ For interactive development, data exploration, and visualization.
 
 ## Data Description
-This dataset contains various key macroeconomic indicators collected from FRED (Federal Reserve Economic Data). The data includes indicators such as GDP, Unemployment Rate, Inflation Rate, and others, covering a range of years. The data was cleaned, aggregated, and processed for analysis to explore correlations between these variables and their trends over time. See fred.stlouisfed.org for original source files. 
+This dataset contains various key macroeconomic indicators collected from FRED (Federal Reserve Economic Data). The data includes indicators such as GDP, Unemployment Rate, Inflation Rate, and others, covering a range of years. The data was cleaned, aggregated, and processed for analysis to explore correlations between these variables and their trends over time. See [FRED Data] (https://fred.stlouisfed.org/) for original source files. 
 
 ## Learner Growth: 
 This project provided valuable hands-on experience in working with economic datasets and preparing them for further analysis. I gained insight into how to pull, clean, and merge data from different sources to create a unified dataset. I also learned how to:
