@@ -8,11 +8,11 @@ The economy is influenced by many factors, and predicting economic outcomes is c
 2. __Data Visualization:__ Use Matplotlib and Seaborn for creating visualizations that highlight trends, correlations, and model results.
 3. __Correlation Analysis:__ Perform correlation analysis to understand the relationships between different macroeconomic variables.
 ## Technologies Used:
-* Python: Primary language for data processing, model training, and evaluation.
-* Pandas: For data manipulation and preprocessing of large datasets.
-* Scikit-learn: For machine learning algorithms and evaluation metrics.
-* Matplotlib / Seaborn: For visualizing the dataset and results.
-* Jupyter Notebooks: For interactive development, data exploration, and visualization.
+1. __Python:__ Primary language for data processing, model training, and evaluation.
+2. __Pandas:__ For data manipulation and preprocessing of large datasets.
+3. __Scikit-learn:__ For machine learning algorithms and evaluation metrics.
+4. __Matplotlib / Seaborn:__ For visualizing the dataset and results.
+5. __Jupyter Notebooks:__ For interactive development, data exploration, and visualization.
 
 ## Learner Growth: 
 This project provided valuable hands-on experience in working with economic datasets and preparing them for further analysis. I gained insight into how to pull, clean, and merge data from different sources to create a unified dataset. I also learned how to:
